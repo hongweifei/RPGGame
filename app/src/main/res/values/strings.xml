@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RPGGame</string>
+    <string name="StartGame">StartGame</string>
+    <string name="ExitGame">ExitGame</string>
+</resources>
